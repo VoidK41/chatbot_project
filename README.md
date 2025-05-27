@@ -1,25 +1,53 @@
-# 💬 Simple Chatbot Demo
+# 🤖 Chatbot AI Sederhana
 
-Ini adalah chatbot sederhana yang dibuat menggunakan Python dan Streamlit.
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-Framework-red)
+![OpenAI](https://img.shields.io/badge/OpenAI-API-green)
 
-## Fitur
-- Input teks dari pengguna
-- Balasan dummy (hanya echo)
-- Tampilan chat bubble dengan histori percakapan
-- Sidebar info aplikasi
+Proyek chatbot berbasis GPT-3.5 ini dirancang untuk membantu bisnis kecil menangani pertanyaan rutin pelanggan, menghemat waktu, dan meningkatkan pelayanan.
 
-## Cara Menjalankan
-1. Install dependensi:
+## 🚀 Cara Install & Jalankan
 
-pip install -r requirements.tx
+1. Clone repository ini:
 
-2. Jalankan aplikasi:
+```bash
+git clone https://github.com/VoidK41/chatbot_project
+cd chatbot_project
+```
 
-streamlit run chatbot_app.py
+2. Install dependensi:
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Jalankan aplikasi:
+
+```bash
+streamlit run chatbot_gpt.py
+```
+
+## ✨ Fitur Utama
+- Respon otomatis berbasis AI (GPT-3.5)
+- Antarmuka web sederhana dengan Streamlit
+- Bisa di-custom untuk kebutuhan bisnis
+
+## 📸 Screenshot
+![Screenshot Chatbot](screenshot.png)
 
 
-## Catatan
-![alt text](image-1.png)
+## 📊 Contoh Output
 
-## Author
-Kai | [LinkedIn](https://linkedin.com/) | [GitHub](https://github.com/VoidK41)
+```
+User: halo
+Bot: Halo! Ada yang bisa saya bantu hari ini?
+```
+
+## 👤 Tentang Saya
+Saya [KhairuIkramendra], developer AI pemula yang fokus membangun solusi cerdas untuk UMKM.
+📩 Kontak: [ikramendra@gmail.com]
+LinkedIn: [linkedin.com/in/khairuikramendra](https://www.linkedin.com/in/khairuikramendra)
+
+## 📌 Catatan
+- Pastikan API key dari OpenAI sudah disimpan di `st.secrets["OPEN_API_KEY"]`.
+- Untuk penggunaan skala lebih besar, pertimbangkan optimasi biaya & batching request.
