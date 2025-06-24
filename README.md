@@ -45,7 +45,6 @@ Bot: Halo! Ada yang bisa saya bantu hari ini?
 
 ## 👤 Tentang Saya
 Saya [KhairuIkramendra], developer AI pemula yang fokus membangun solusi cerdas untuk UMKM.
-📩 Kontak: [ikramendra@gmail.com]
 LinkedIn: [linkedin.com/in/khairuikramendra](https://www.linkedin.com/in/khairuikramendra)
 
 ## 📌 Catatan
