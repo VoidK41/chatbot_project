@@ -43,6 +43,8 @@ User: halo
 Bot: Halo! Ada yang bisa saya bantu hari ini?
 ```
 
-## 👤 Tentang Saya
-Saya [KhairuIkramendra], developer AI pemula yang fokus membangun solusi cerdas untuk UMKM.
-LinkedIn: [linkedin.com/in/khairuikramendra](https://www.linkedin.com/in/khairuikramendra)
+## 👨‍💻 Author
+
+**Khairu Ikramendra**  
+Freelance dashboard developer & data analyst  
+[LinkedIn](https://www.linkedin.com/in/khairuikramendra/) | [Upwork](https://www.upwork.com/freelancers/~017002e8546494c6e9)
