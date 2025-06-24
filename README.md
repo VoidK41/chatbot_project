@@ -46,7 +46,3 @@ Bot: Halo! Ada yang bisa saya bantu hari ini?
 ## 👤 Tentang Saya
 Saya [KhairuIkramendra], developer AI pemula yang fokus membangun solusi cerdas untuk UMKM.
 LinkedIn: [linkedin.com/in/khairuikramendra](https://www.linkedin.com/in/khairuikramendra)
-
-## 📌 Catatan
-- Pastikan API key dari OpenAI sudah disimpan di `st.secrets["OPEN_API_KEY"]`.
-- Untuk penggunaan skala lebih besar, pertimbangkan optimasi biaya & batching request.
